@@ -1,0 +1,8 @@
+spouse1:
+  short_name: Amanda
+  long_name: Amanda Panas
+  role: _data/couple.yml
+spouse2:
+  short_name: Brianna
+  long_name: Brianna Kromrey
+  role: _data/couple.yml

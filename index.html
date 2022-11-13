@@ -1,0 +1,18 @@
+---
+# Under Construction
+ layout: under_construction
+ show_nav: false
+ show_footer: false
+ background: assets/img/web42.jpg
+ #background image in jekyll-theme-easy-wedding/assets/img/
+
+## Published
+# layout: default
+# include: our_story.html
+# invisible_nav: false
+---
+
+{% include banners.html %}
+{% if page.include %}
+  {% include {{ page.include }} %}
+{% endif %}
