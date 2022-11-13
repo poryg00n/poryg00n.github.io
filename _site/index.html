@@ -202,17 +202,17 @@ RSVP
       title: "Amanda&#39;s and Brianna&#39;s Wedding",
 
       // Event start date
-      start: new Date(Number("1617487200") * 1000),
+      start: new Date(Number("1682200800") * 1000),
 
       // Event duration (IN MINUTES)
       // duration: 4 * 60,
 
       // You can also choose to set an end time
       // If an end time is set, this will take precedence over duration
-      end: new Date(Number("1617498000") * 1000),
+      end: new Date(Number("1682906400") * 1000),
 
       // Event Address
-      address: '640 Pansy Hill Rd Harriman, TN 37748',
+      address: '123 123 Big Sur, CA 37748',
 
       // Event Description
       description: "We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick. \n\nWebsite: http://localhost:4000"
@@ -347,71 +347,8 @@ RSVP
     
     
     
-    <div class="banner" id="/banners/livestream-banner">
-        <div class="close-button">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="banner-content">
-            <p>The livestream is up. <a href="/livestream/">Click here</a> to watch the ceremony.</p>
-
-        </div>
-    </div>
-
-    <script>
-        (function(){
-            const banner = document.getElementById('/banners/livestream-banner');
-            // hide banner when close button is clicked.
-            banner.querySelector('.btn-close').addEventListener('click', function(){
-                banner.classList.add('hidden');
-                setTimeout(() =>
-                    banner.classList.add('closed'),
-                    1000
-                );
-            });
-
-            // hide banner if it's not time to show it.
-            
-        })();
-    </script>
-
     
     
-    <div class="banner" id="/banners/timed-banner">
-        <div class="close-button">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="banner-content">
-            <p>This banner only shows up at February 9, 2022 20:22:22</p>
-
-        </div>
-    </div>
-
-    <script>
-        (function(){
-            const banner = document.getElementById('/banners/timed-banner');
-            // hide banner when close button is clicked.
-            banner.querySelector('.btn-close').addEventListener('click', function(){
-                banner.classList.add('hidden');
-                setTimeout(() =>
-                    banner.classList.add('closed'),
-                    1000
-                );
-            });
-
-            // hide banner if it's not time to show it.
-            
-                const startTime = new Date('2022-02-09 20:22:22 -0500');
-                const endTime = new Date('2022-02-09 23:22:22 -0500');
-                console.log(startTime);
-                console.log(endTime);
-                const now = new Date();
-                if (now < startTime || now > endTime) {
-                    banner.classList.add('hidden');
-                }
-            
-        })();
-    </script>
-
     
 </div>
 
@@ -425,9 +362,9 @@ RSVP
                     <h1 class="brand-heading">Amanda & Brianna</h1>
                     <p class="intro-text">
                         
-                        April 03, 2021
+                        April 22, 2023
                         <br>
-                        Harriman, Tennessee
+                        Big Sur, California
                       <br>
                     </p>
                 </div>
