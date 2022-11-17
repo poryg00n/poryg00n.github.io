@@ -202,20 +202,20 @@ RSVP
       title: "Amanda&#39;s and Brianna&#39;s Wedding",
 
       // Event start date
-      start: new Date(Number("1682200800") * 1000),
+      start: new Date(Number("") * 1000),
 
       // Event duration (IN MINUTES)
       // duration: 4 * 60,
 
       // You can also choose to set an end time
       // If an end time is set, this will take precedence over duration
-      end: new Date(Number("1682906400") * 1000),
+      end: new Date(Number("") * 1000),
 
       // Event Address
-      address: '123 123 Big Sur, CA 37748',
+      address: '54722 CA-1 Big Sur, CA 93920',
 
       // Event Description
-      description: "We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick. \n\nWebsite: http://localhost:4000"
+      description: "Brianna & Amanda are getting married! We can't wait to see you on the day of the wedding. \n\nWebsite: http://localhost:4000"
     },
       'add-to-cal',
     );
@@ -245,14 +245,119 @@ RSVP
 
 
         
+             <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-expand-lg fixed-top  navbar-hidden-top "
+         role="navigation"
+         id="navbar"
+    >
+        <div class="container">
+              <a class="navbar-brand" href="/">
+                A
+                &
+                B
+              </a>
+              <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-main-collapse">
+                  <i class="fa fa-bars"></i>
+              </button>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="navbar-main-collapse">
+                <ul class="nav navbar-nav ms-auto">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/celebrations" class="nav-link">Celebrations</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/details" class="nav-link">Details</a>
+                        </li>
+                      
+                    
+                      
+                        <li class=" nav-item">
+                            <a href="/faq" class="nav-link">FAQ</a>
+                        </li>
+                      
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+        
 
         <div class="content-wrapper">
-            <div class="under-construction-container" style="background-image: url('/assets/img/under-construction9.jpg');">
-    <div class="under-construction-content">
-        <h1>Amanda & Brianna</h1>
-        <span>more coming soon</span>
+            <div class="banner-container">
+    
+    
+    <div class="banner" id="/banners/hidden-banner">
+        <div class="close-button">
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="banner-content">
+            <p>Website under construction - check back later for more details!</p>
+
+        </div>
     </div>
+
+    <script>
+        (function(){
+            const banner = document.getElementById('/banners/hidden-banner');
+            // hide banner when close button is clicked.
+            banner.querySelector('.btn-close').addEventListener('click', function(){
+                banner.classList.add('hidden');
+                setTimeout(() =>
+                    banner.classList.add('closed'),
+                    1000
+                );
+            });
+
+            // hide banner if it's not time to show it.
+            
+        })();
+    </script>
+
+    
+    
+    
+    
+    
 </div>
+
+
+  <!-- Intro Header -->
+<header class="intro">
+    <div class="intro-body">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <h1 class="brand-heading">Amanda & Brianna</h1>
+                    <p class="intro-text">
+                        
+                        
+                        <br>
+                        Big Sur, California
+                      <br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
 
         </div>
 

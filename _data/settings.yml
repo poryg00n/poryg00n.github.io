@@ -1,16 +1,16 @@
 google_analytics_id: G-X0BJ20T7XR
 
-hero_image: assets/img/flowers.jpg
+hero_image: assets/img/hero_image53.jpg
 hero_position: center center
-# mobile_hero_image: assets/img/bell.jpg
-# mobile_hero_position: center center
+mobile_hero_image: assets/img/under-construction9.jpg
+mobile_hero_position: center center
 
 theme:
   # text_color: '#404040'
-  primary_color: '#d98560'
-  # secondary_color: '#a2a183'
-  # accent_color: '#afa63d'
-  # background_color: '#ffff'
+  primary_color: '#cdb6aa' #bba396'
+  secondary_color: '#a8b3b7'
+  #accent_color: '#a8b3b7'
+  #background_color: '#ffff' 
 
 rsvp:
   use_code: true
@@ -34,9 +34,9 @@ rsvp:
   song_text: What songs will get you dancing?
   leave_a_message_text: Leave a message for the bride and groom.
 
-people:
-  families_header: Our Families
-  families_text: We would be nothing if it wasn't for the love and support of our wonderful parents and siblings.
-  kids_header: Little Ones
-  kids_text: We're so lucky to have our sweet puppies help us celebrate the big day.
-  wedding_party_header: Wedding Party
+#people:
+#  families_header: Our Families
+#  families_text: We would be nothing if it wasn't for the love and support of our wonderful parents and siblings.
+#  kids_header: Little Ones
+#  kids_text: We're so lucky to have our sweet puppies help us celebrate the big day.
+#  wedding_party_header: Wedding Party

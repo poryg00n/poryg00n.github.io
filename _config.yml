@@ -1,13 +1,12 @@
 # Site settings
 remote_theme: cnorick/jekyll-theme-easy-wedding
+#theme: jekyll-theme-easy-wedding
 title: Amanda & Brianna
-email: bkromrey22@yahoo.com
+#email:
 url: "https://www.brimanda.com"
-  # http://briamanda.com # Be sure to include http:// or https://
 description: "We're getting married and can't wait to celebrate with you!"
 #baseurl: /
-#comment out baseurl when local. actually i dont thinkt this was the cause of the missing main.js
-#https://poryg00n.github.io/index.html"
+
 
 collections:
   stories:

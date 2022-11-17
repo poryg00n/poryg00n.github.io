@@ -1,5 +1,5 @@
 ---
-hide: true
+hide: false
 ---
 
-This is a hidden banner
+Website under construction - check back later for more details!

@@ -1,8 +1,10 @@
-- name: Amazon
-  url: amazon.com
-- name: Target
-  url: target.com
-- name: Crate & Barrel
-  url: https://www.crateandbarrel.com/
-- name: Macy's
-  url: https://www.macys.com/
+#-Your presence at our wedding is the greatest gift we could ask for! If you would like to honor us with a gift, you can have it delivered to our home at [insert address]. A wedding card box will be at our reception.
+
+#- name: Amazon
+#  url: amazon.com
+#- name: Target
+#  url: target.com
+#- name: Crate & Barrel
+#  url: https://www.crateandbarrel.com/
+#- name: Macy's
+#  url: https://www.macys.com/

@@ -1,54 +1,53 @@
-- question: What should I wear?
-  answer: |
-    We are confident it will be hot and humid in June in East Tennessee. Please dress accordingly. No need for a tux or ball gown. Dress pants and a collared shirt or a casual dress will be just fine.
-
 - question: How do I get to the venue?
   answer: |
-    Take exit 407 off I-40 onto TN-66 towards Sevierville/Pigeon Forge. In 8.7 miles, turn right onto W Main Street. In 0.4 miles, turn left onto Hardin Lane. 805 Hardin Lane will be on your right in 1.2 miles.
-
-    There is also a map on the <a href="../details">details page</a>.
-
-- question: What kind of shoes should I wear?
-  answer: |
-    This is an outdoor wedding. It might not be the best place for stilettos.
-
-- question: Can I bring a date?
-  answer: |
-    As much as we would love to have everyone, because of venue limitations, please only bring who was addressed on your invitation. If you have a question about this, feel free to contact Nathan or Sarah.
-
-- question: When is the RSVP deadline?
-  answer: |
-    May 8th. And you can RSVP here!
+    Due to limited parking availability at the venue, transportation will be provided to and from the venue. More details to come!
 
 - question: What time should I arrive?
   answer: |
-    The ceremony is starting at 6pm. Arriving 15-20 minutes early will give you plenty of time to get a seat.
+    We will be coordinating a shuttle to bring everyone to and from the ceremony. More details to come.
 
-- question: |
-    I have a pretty seriously allergy to [insert allergen here], can you accommodate me?
+- question: What will the weather be like?
   answer: |
-    Yes! Get in touch with us ASAP, so we can make sure we keep any [insert allergen here] away from you!
+    For this time of year in Big Sur, the temperature can reach a high of low-70s during the day and a low of the mid-40s in the evening.
 
-- question: Where should I park?
+- question: What should I wear?
   answer: |
-    Parking is on the property. It will be marked and can be seen from the road.
+    Something you feel comfortable in! (But please no jeans.)
+
+- question: What kind of shoes should I wear?
+  answer: |
+    This is an outdoor wedding. Please wear comfortable shoes - high heels are not advised due to the terrain.
+
+#- question: When is the RSVP deadline?
+#  answer: |
+#    March 1st. You can RSVP on this website (see the link in the top right corner) or via snail mail.
+
+- question: I have a pretty seriously allergy to [insert allergen here], can you accommodate me?
+  answer: |
+    Yes! Get in touch with us ASAP, so we can make sure we keep any [insert allergen here] away from you! We are planning plenty of meat and gluten free options.
 
 - question: Will food be served?
   answer: |
-    Yes! We will be having a taco bar with cupcakes and ice cream.
+    Yes! Food and drinks will be served.
 
-- question: Will there be dancing?
-  answer: |
-    Absolutely! Make sure to fill out the song request option when you RSVP.
+#- question: Will there be dancing?
+#  answer: |
+#    Not sure yet. Dancing sucks. Absolutely! Make sure to fill out the song request option when you RSVP.
 
-- question: What time will the reception end?
-  answer: |
-    We plan on celebrating until about 10pm.
+#- question: What time will the reception end?
+#  answer: |
+#    We plan on celebrating until about 10pm.
 
 - question: Can I take pictures?
   answer: |
-   Please no pictures during the ceremony, but take as many as you’d like during the reception. Feel free to tag us and use our snapchat filter and hashtag #OughtToBeAnOrick.
+   Please no pictures during the ceremony, but take as many as you’d like during the reception.
 
-- question: What if I have question that is not listed here?
+- question: What if I have a question that is not listed here?
   answer: |
-    Feel free to contact the bride or the groom.
+    Feel free to contact the Brianna or Amanda.
+
+
+
+
+
+#        There is also a map on the <a href="../details">details page</a>.
